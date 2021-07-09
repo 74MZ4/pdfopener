@@ -6,7 +6,7 @@ int main(){
 
     int x = 0;
 
-    std::cout << "VIEL ERFOLG !" << std::endl;
+    std::cout << "VIEL ERFOLG!!" << std::endl;
     std::cout << "Vorlesungsnummer: ";
     std::cin >> x;
 
